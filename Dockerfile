@@ -1,0 +1,1 @@
+From docker.io/calico/node:v3.25.0
